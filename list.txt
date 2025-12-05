@@ -1,2 +1,3 @@
 wss://rpc.3dpass.org
 wss://rpc.p3d.top
+https://rpc.p3d.top
